@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801139635960",
+    "project_id": "diamondhead-b8339",
+    "storage_bucket": "diamondhead-b8339.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801139635960:android:987ea12e732d15d0fe6d0d",
+        "android_client_info": {
+          "package_name": "com.example.diamondhead"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801139635960-mshd8ms5712hnct9ifs22ho85tf2sq36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAGVB3HYqZI-AGLkumDx70J639z8lnSro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801139635960-mshd8ms5712hnct9ifs22ho85tf2sq36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
